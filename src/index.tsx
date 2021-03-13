@@ -246,7 +246,7 @@ window.addEventListener("click", function (e) {
 
   this.setTimeout(function () {
     hitBoss = 0
-  }, 1000)
+  }, 1400)
 
 })
 
@@ -274,7 +274,7 @@ window.addEventListener("touchstart", function (e) {
   }
   this.setTimeout(function () {
     hitBoss = 0
-  }, 1000)
+  }, 1400)
 
 })
 
